@@ -14,5 +14,11 @@ O propósito deste repositório é reunir códigos bem documentados que demonstr
    ```sh
    git clone https://github.com/gusta-liima/Microcontroladores.git
 
+2. Abra o código no VSCode ou outra IDE compatível
+
+3. Compile utilizando o compilador adequado
+
+4. Carregue o código no microcontrolador e execute o teste
+
 ## 🔧 Tecnologias
 Atualmente, o foco é no PIC18F4550, mas há intenção de expandir o repositório para incluir outros microcontroladores, como por exemplo o Arduino e diferentes plataformas.
